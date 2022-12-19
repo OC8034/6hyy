@@ -1,0 +1,8 @@
+		        USE THIS SCRIPT IN CMD ELSE YOUR PC CRASHES
+
+				 {METHOD TO USE SCRIPT}
+		node lux.js <url> <threads> <req_per_sec> <duration>
+		*example* :  node lux.js 194.233.84.153:25681 500 5 120 
+
+			          {SCRIPT BY _OC_#5998}
+
